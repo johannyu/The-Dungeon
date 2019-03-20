@@ -1,2 +1,2 @@
 # The-Dungeon
-To view the scripts, go to The Dungeon > Assets > Scripts
+To view the scripts, go to FinalDungeon > Assets > Scripts
